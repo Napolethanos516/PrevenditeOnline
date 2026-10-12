@@ -1,0 +1,11 @@
+[functions.send-request-notification]
+verify_jwt = false
+
+[functions.track-view]
+verify_jwt = false
+
+[functions.telegram-bot]
+verify_jwt = false
+
+[functions.daily-views-report]
+verify_jwt = false
